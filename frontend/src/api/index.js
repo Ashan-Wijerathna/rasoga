@@ -1,0 +1,13 @@
+export { default as axiosInstance, getFileUrl, API_BASE_URL } from './axiosInstance';
+export { default as authAPI } from './authAPI';
+export { default as eventsAPI } from './eventsAPI';
+export { default as applicationsAPI } from './applicationsAPI';
+export { default as schoolsAPI } from './schoolsAPI';
+export { default as resultsAPI } from './resultsAPI';
+export { default as dashboardAPI } from './dashboardAPI';
+export { default as reportsAPI } from './reportsAPI';
+export { default as adminAPI } from './adminAPI';
+export { default as resozaAPI } from './resozaAPI';
+export { default as formBuilderAPI } from './formBuilderAPI';
+export { default as slidesAPI } from './slidesAPI';
+export { default as permissionAPI } from './permissionAPI';
